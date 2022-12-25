@@ -1,12 +1,3 @@
-<img src="https://telegra.ph/file/59530b4e467baea6240eb.png" alt="logo" target="/blank">
-
-<h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank">MissPerfect-URL-BOT</a></>
-</h1>
-
-<p align="center">🤍 Thanks for Being Here 🤍</p>
-
-
 ### ⚡️ Configs 
 
 * `BOT_TOKEN`  - Create a New BOT to Get bot token. follow link  https://telegram.me/BotFather
@@ -41,44 +32,11 @@
 `/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
 
 
-  ### 📶 DEPLOYEMENT SUPPORT
-
-<details><summary>🔥 Deploy To Koyeb 🔥</summary>
-<p>
-<br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/MissPerfect-URL-BOT&branch=main&name=LazyMissPerfectGOT" >
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-<details><summary>🧡Deploy To Heroku🧡</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/MissPerfect-URL-BOT">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-
-### 🔗 important_Links
-- [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
-- [🤩 Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
-- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
-- [❣️ Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
-
-
-#### 🧡 Respecting... 🧡
-- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
-- [🔥 Instagram](https://www.instagram.com/LazyDeveloperrr) 
-- [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
-
-
 **Features**:
 👉 Upload [yt-dlp Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
 
 🧡 Upload HTTP/HTTPS as File/Video to Telegram.
-🧡 Upload zee5, sony.live, voot and much more.
+🧡 Upload zee5, sony liv, voot and much more.
 🧡 Permanent thumbnail Support.
 🧡 Broadcast message.
 
@@ -87,6 +45,3 @@
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-
-#### LICENSE
-- GPLv3
